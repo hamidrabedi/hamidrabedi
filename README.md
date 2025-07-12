@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hamid.I'm a backend developer with over 4 years of experience in designing and implementing scalable systems that can handle high traffic and complex data structures.</h2>
+<h2 align="left">Hi 👋! My name is Hamid.I'm a backend developer with over 4 years of experience in designing and implementing systems.</h2>
 
 ###
 
