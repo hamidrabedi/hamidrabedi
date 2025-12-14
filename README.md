@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamidrabedi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/hamidrabedi/count.svg" alt="Profile views" />
 </div>
 
 ###
